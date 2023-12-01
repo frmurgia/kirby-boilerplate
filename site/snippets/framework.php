@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="<?= $kirby->language() ? $kirby->language()->code() : 'en' ?>">
-    
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <?php 
         $themeColor = '';
         $maskIconColor = '';
         $cssPath = 'assets/css/tailwind.css';
-        $cssVersion = filemtime($cssPath) ?? '';
+        
     ?>
     
     <head>
@@ -16,7 +16,7 @@
             'themeColor' => $themeColor,
             'maskIconColor' => $maskIconColor,
         ]) ?>
-        <?= css($cssPath . '?v=' . $cssVersion) ?>
+        <?= css($cssPath ) ?>
         <?= snippet('matomo') ?>
     </head>
 
@@ -32,10 +32,7 @@
             <?= $slot ?>
         </main>
 
-        <?php /* FOOTER */ ?>
-        <footer class="">
-            <?= snippet('comps/footer') ?>
-        </footer>
+   
 
         <?php /* Load libs config from site/config/config.php */
             $libs = option('libs'); 

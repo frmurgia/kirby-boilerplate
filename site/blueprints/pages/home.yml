@@ -1,0 +1,80 @@
+title: sabrinamelis.com
+icon: 📔
+
+
+tabs:
+  struttura:
+    icon: bars
+
+    sections:
+
+      contenuti:
+        type: fields
+        fields:
+          headline:
+            label: Headline
+            type: text
+
+
+          social:
+            label: Contatti
+            type: structure
+            fields:
+              instagram:
+                label: Instagram
+                type: url
+              piva:
+                label: p iva
+                type: number
+              email:
+                label: Email
+                type: email
+                
+              #   name: instagram
+              #   label: Instagram
+              #   type: url
+              # - 
+              #   name: piva
+              #   label: PIVA
+              #   type: number
+              # - 
+              #   name: email
+              #   label: Email
+              #   type: email
+
+      parts:
+        listed: public
+        icon: template
+        label: hyperlinked diary-portfolio 
+        type: pages
+        status: all
+        listed: true
+        info: "{{ page.intendedTemplate }}"
+        image: false
+        templates:
+          - anno
+          # - cv
+          # - about-me
+          # - about-this-website  
+
+
+  progetti:
+    icon: heart
+    sections:
+      progetto:
+        label: progetto
+        type: pages
+        listed: unlisted
+        
+        
+        templates:
+          - progetto
+
+
+  contact: tabs/seo/contact
+  seotab: seo
+  matomo: tabs/matomo
+  
+
+
+    

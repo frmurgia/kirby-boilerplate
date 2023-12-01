@@ -6,7 +6,7 @@ return [
 
   'date.handler' => 'intl',
   'locale' => 'en_US.UTF-8',
-
+  'panel'=> true,
   'debug' => false,
 
   'updates' => [

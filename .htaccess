@@ -1,2 +1,122 @@
-order deny,allow
-deny from all
+# Kirby .htaccess
+Header set Cache-Control "no-cache, private"
+php_value opcache.revalidate_freq 0
+# rewrite rules
+<IfModule mod_rewrite.c>
+
+# enable awesome urls. i.e.:
+# http://yourdomain.com/about-us/team
+RewriteEngine on
+
+# make sure to set the RewriteBase correctly
+# if you are running the site in a subfolder.
+# Otherwise links or the entire site will break.
+#
+# If your homepage is http://yourdomain.com/mysite
+# Set the RewriteBase to:
+#
+# RewriteBase /master-interaction-design
+
+# In some enviroments it's necessary to
+# set the RewriteBase to:
+#
+# RewriteBase /
+
+# block files and folders beginning with a dot, such as .git
+# except for the .well-known folder, which is used for Let's Encrypt and security.txt
+RewriteRule (^|/)\.(?!well-known\/) index.php [L]
+
+# block text files in the content folder from being accessed directly
+RewriteRule ^content/(.*)\.(txt|md|mdown)$ index.php [L]
+
+# block all files in the site folder from being accessed directly
+# except for requests to plugin assets files
+RewriteRule ^site/(.*) index.php [L]
+
+# Enable authentication header
+SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
+
+# block direct access to kirby and the panel sources
+RewriteRule ^kirby/(.*) index.php [L]
+
+# make site links work
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*) index.php [L]
+
+# redirect the traffic if no containing the subpage to subpage
+# RewriteCond %{REQUEST_URI} !^/master-interaction-design
+# RewriteRule ^(.*) /master-interaction-design/$1 [R=301]
+
+# url rewrite to https://maind.supsi.ch/master-interaction-design/...
+# RewriteEngine On
+# RewriteRule ^$ /master-interaction-design [L]
+
+# EXTRA
+# url rewrite to point to https://maind.supsi.ch/  (just HTTPS_HOST handling)
+# RewriteCond %{HTTPS} off [OR]
+# RewriteCond %{HTTP_HOST} ^www\. [NC]
+# RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
+# RewriteRule ^ https://%1%{REQUEST_URI} [L,NE,R=301]
+
+# RewriteCond %{REQUEST_URI} !^/master-interaction-design/
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule ^(.*)$ /master-interaction-design/$1
+# RewriteCond %{HTTP_HOST} ^(www.)?maind.supsi.ch$
+# RewriteRule ^(/)?$ master-interaction-design/ [L,R]
+
+
+</IfModule>
+
+# compress text file responses
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE text/javascript
+    AddOutputFilterByType DEFLATE application/json
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/x-javascript
+</IfModule>
+
+
+# allow to use the cached files already downloaded without having to download them again every time
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresDefault "access plus 10 days"
+    ExpiresByType text/css "access"
+    ExpiresByType text/plain "access plus 10 days"
+    ExpiresByType image/gif "access plus 1 month"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType application/x-javascript "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 week"
+    ExpiresByType application/x-icon "access plus 1 month"
+</IfModule>
+
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Checking for WebP browser support ..
+  RewriteCond %{HTTP_ACCEPT} image/webp
+
+  # .. and if there's a WebP version for the requested image
+  RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
+
+  # Well, then go for it & serve WebP instead
+  RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
+</IfModule>
+
+<IfModule mod_headers.c>
+  Header append Vary Accept env=REDIRECT_accept
+</IfModule>
+
+<IfModule mod_mime.c>
+  AddType image/webp .webp
+</IfModule>
+
+
+

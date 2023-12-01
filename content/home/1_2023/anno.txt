@@ -1,0 +1,9 @@
+Title: 2023
+
+----
+
+Text: [{"content":{"text":"<p>Forse da quest'anno inizierò a scrivere in italiano e attiverò una sezione shop sul sito. Ci ragiono ancora un pò e torno.</p><p>---&gt; Last available copies of my book: <a href=\"home/unione-dei-legnami\"><strong>unione dei legnami</strong></a></p><p></p>"},"id":"a4bb81d1-e784-4fd9-96e0-f22c931c8367","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: QzUOM0ahHyDDEzLo
