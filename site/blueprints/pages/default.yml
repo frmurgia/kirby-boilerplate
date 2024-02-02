@@ -1,34 +1,8 @@
-title:
-  en: Default Page
-  de: Standard-Seite
+title: Default Page
+preset: page
+fields:
+  text:
+    label: Text
+    type: textarea
+    size: large
 
-status:
-  draft: true
-  listed: true
-  unlisted: true
-
-tabs:
-
-  # Content
-  content:
-    label: Content
-    icon: text
-    columns:
-
-      - width: 2/3
-        fields:
-          text:
-            label: Text
-            type: textarea
-            size: large
-
-      - width: 1/3
-        sections:
-          files:
-            headline:
-              en: All files of this page
-              de: Alle Dateien dieser Seite
-            type: files
-
-  # Meta
-  meta: tabs/seo/meta

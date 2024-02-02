@@ -1,0 +1,31 @@
+title: anno
+template: page
+
+fields:
+
+
+  text:
+    type: blocks
+    preview: fields # required
+    wysiwyg: true # recommended
+    fieldsets:
+      text:
+        label: Text
+        type: group
+        fieldsets:
+          - heading
+          - text
+          - list
+      media:
+        label: Media
+        type: group
+        fieldsets:
+          - gallery
+          - image
+          - video
+      code:
+        label: Code
+        type: group
+        fieldsets:
+          - code
+          - markdown

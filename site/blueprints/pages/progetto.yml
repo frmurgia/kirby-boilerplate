@@ -1,0 +1,24 @@
+title: progetto
+template: page
+
+
+
+
+    
+fields:
+
+  titolo:
+    label: titolo
+    type: text
+  testo:
+    label: Testo principale
+    type: writer
+  gallery:
+    label: project gallery
+    help: aspect ratio 16:10
+    type: files
+    sortable: true
+    template: project-image
+    sortBy: filename desc
+    layout: cardlets
+  
