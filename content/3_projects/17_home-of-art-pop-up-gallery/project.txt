@@ -1,0 +1,57 @@
+Title: Home of Art, Pop-up gallery
+
+----
+
+Copertina: - file://EJyVNmJocs16Fluk
+
+----
+
+Gallery:
+
+- file://EJyVNmJocs16Fluk
+- file://075Mdl2UouSrJiDc
+- file://2fkWN974nhoxCe82
+- file://KwfLmobEnt65gweK
+- file://f1w3oa7q3BcRTq1n
+- file://ZFMTIzuordWf8rL5
+- file://2reNUn3dUAbMJKvu
+- file://JAjfNaYEZus4q2Fn
+- file://4IS4elIIlE3WoRx2
+- file://fJGgbWeBDSaHSIKw
+- file://pIu2H7dj08e6rLtr
+- file://rltgxdOey4u2Vje8
+
+----
+
+Category: Recupero
+
+----
+
+Luogo: Amsterdam
+
+----
+
+Anno: 
+
+----
+
+Stato: Conclusi
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: 
+
+----
+
+Text:
+
+Home of art è una pop-up gallery ad Amsterdam. Nonostante la vocazione provvisoria dello spazio, il progetto è riuscito a creare uno spazio espositivo in grado di far collaborare artisti, diventando una piattaforma di scambio e incontro. La galleria ha ospitato eventi live di musica e pittura oltre a piccole produzioni teatrali.
+Il progetto si è sviluppato con il riuso creativo dei materiali trovati sul posto per la costruzione di strutture temporanee di supporto alle installazioni e alle mostre, lasciando uno spazio centrale vuoto e flessibile per la multifunzionalità spaziale.
+
+----
+
+Uuid: RiMUpW86XpZFc0YS

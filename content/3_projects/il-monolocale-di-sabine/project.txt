@@ -1,0 +1,44 @@
+Title: Il monolocale di Sabine
+
+----
+
+Copertina: - file://iX16hREO28SsRvLx
+
+----
+
+Gallery:
+
+- file://RIkA551zvcxvuG3Z
+- file://iX16hREO28SsRvLx
+
+----
+
+Category: Recupero
+
+----
+
+Luogo: Alghero
+
+----
+
+Anno: 
+
+----
+
+Stato: Non iniziati
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: 
+
+----
+
+Text: 
+
+----
+
+Uuid: rMIRnlDb9olz7Kbq

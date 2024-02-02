@@ -3,10 +3,13 @@
 return [
   'languages' => false,
   'languages.detect' => true,
-
+ 
   'date.handler' => 'intl',
   'locale' => 'en_US.UTF-8',
-
+  'panel'=> true,
+  'panel' =>[
+    'install' => true
+  ],
   'debug' => false,
 
   'updates' => [
@@ -82,7 +85,7 @@ return [
       }
     },
   ],
-
+  'fabianmichaelrobots.imageindex'=>true,
   'sylvainjule.matomo' => [
     'url'            => '',
     'id'             => '',

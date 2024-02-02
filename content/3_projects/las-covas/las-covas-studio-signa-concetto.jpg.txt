@@ -1,0 +1,9 @@
+Sort: 2
+
+----
+
+Uuid: DElLEG88OOLibogy
+
+----
+
+Template: studio-project-image

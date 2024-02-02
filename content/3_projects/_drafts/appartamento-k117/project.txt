@@ -1,0 +1,33 @@
+Title: Appartamento K117
+
+----
+
+Category: Recupero
+
+----
+
+Luogo: 
+
+----
+
+Anno: 
+
+----
+
+Stato: In corso
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: 
+
+----
+
+Text: 
+
+----
+
+Uuid: z7MxZ7yjREMQD1NR

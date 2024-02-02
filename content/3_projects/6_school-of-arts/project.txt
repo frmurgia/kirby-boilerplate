@@ -1,0 +1,50 @@
+Title: School of Arts
+
+----
+
+Copertina: - file://8b4Ce1uCRB4HltFF
+
+----
+
+Gallery:
+
+- file://8b4Ce1uCRB4HltFF
+- file://k1lbjlnd5vUgAsJb
+- file://LnCedsiiObCCWqWH
+- file://CnJqojkTcKnAvnrq
+
+----
+
+Category: Concorsi
+
+----
+
+Luogo: Londra
+
+----
+
+Anno: 
+
+----
+
+Stato: 
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: 
+
+----
+
+Text:
+
+SCHOOL OF ARTS è un progetto per il concorso di idee per “START” nel quartiere di Shoreditch. 
+L’idea progettuale è un susseguirsi di volumi, superfici e vuoti che creano uno spazio dinamico e generano luoghi d’ incontro per artisti sia negli spazi comuni interni che nelle corti esterne.
+Il volume, allineato con la maglia urbana, si presenta come un volume compatto coperto da pannelli di policarbonato che modulano la luce creando un'atmosfera di ispirazione e concentrazione per gli artisti.
+
+----
+
+Uuid: bPNbcsMzMTiJxB5N

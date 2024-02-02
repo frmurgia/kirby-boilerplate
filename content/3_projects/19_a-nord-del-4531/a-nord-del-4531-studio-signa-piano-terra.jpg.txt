@@ -1,0 +1,9 @@
+Sort: 8
+
+----
+
+Uuid: xMMAy75kTURzd33N
+
+----
+
+Template: studio-project-image

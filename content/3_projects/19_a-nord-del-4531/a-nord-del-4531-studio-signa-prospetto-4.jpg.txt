@@ -1,0 +1,29 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: studio signa
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 13
+
+----
+
+Uuid: wOx7NclNymV96Lnf
+
+----
+
+Template: studio-project-image

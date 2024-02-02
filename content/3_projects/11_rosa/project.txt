@@ -1,0 +1,33 @@
+Title: Rosa
+
+----
+
+Category: Nuovo
+
+----
+
+Luogo: 
+
+----
+
+Anno: 
+
+----
+
+Stato: Conclusi
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: 
+
+----
+
+Text: 
+
+----
+
+Uuid: fhEYJX6OlYphJyjq

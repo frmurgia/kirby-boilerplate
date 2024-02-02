@@ -1,0 +1,289 @@
+Title: processo
+
+----
+
+Homeinfo: Studio Signa offre un servizio architettonico suddiviso in fasi progettuali da adattare alle necessità del singolo progetto.
+
+----
+
+Title1: Brief, strategia e concept
+
+----
+
+Description1: <p>Sviluppo delle idee progettuali con il cliente attraverso studi di fattibilità in modo da definire una base comune su cui delineare le linee guida del progetto includendo i desideri.</p>
+
+----
+
+Cover: - file://xUKJbD47Vjaoa8Zq
+
+----
+
+Title2: Progetto preliminare
+
+----
+
+Description2: <p>Approfondimento delle proposte architettoniche mettendo in luce gli elementi chiave sia dal punto di vista formale che funzionale. L'obiettivo primario è condividere una visione preliminare del progetto racchiudendo tutte le richieste del cliente.</p>
+
+----
+
+Cover2: - file://rYpv7fMbrXmi46NM
+
+----
+
+Title3: Progetto definitivo
+
+----
+
+Description3: <p>Preparazione degli elaborati grafici e architettonici da presentare agli uffici tecnici. In questa fase si coordina e approfondisce il progetto preliminare definendo e ottimizzando struttura, impianti e costi.</p>
+
+----
+
+Cover3: - file://reSxjKzILl38EcZU
+
+----
+
+Title4: <p>Progetto esecutivo</p>
+
+----
+
+Description4: Finalizzazione dei dettagli costruttivi e schede tecniche del materiale. Preparazione del programma dei lavori e delle fasi di costruzione.
+
+----
+
+Cover4a: - file://ZBxPjKfbNfAAhidX
+
+----
+
+Cover4b: - file://snUcni9lbqOpz2AK
+
+----
+
+Cover4c: - file://4L6mqtbUkYjqTvSU
+
+----
+
+Title5: Costruzione
+
+----
+
+Description5: Fase di Direzione dei Lavori (DL). Gestione e monitoraggio del cantiere, dei materiali e della logistica.
+
+----
+
+Cover5: - file://UzWN0XgqesozLA3l
+
+----
+
+Title6: Consegna del progetto
+
+----
+
+Description6: Chiusura dei lavori. Fase finale con verifica della realizzazione delle opere a regola d’arte. Conclusione dell’Iter amministrativo.
+
+----
+
+Cover6: - file://J51ZxtsCtpRAb3NY
+
+----
+
+Meta-title: Processo
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: architectural firm based in Alghero
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: disabled
+
+----
+
+Robots-nofollow: disabled
+
+----
+
+Robots-noarchive: disabled
+
+----
+
+Robots-noimageindex: disabled
+
+----
+
+Robots-nosnippet: disabled
+
+----
+
+Meta-title-separator: 
+
+----
+
+Meta-website-owner: org
+
+----
+
+Meta-org-name: studio signa
+
+----
+
+Meta-org-logo: 
+
+----
+
+Meta-person: 
+
+----
+
+Robots-index: 1
+
+----
+
+Robots-follow: 1
+
+----
+
+Robots-archive: 1
+
+----
+
+Robots-imageindex: 1
+
+----
+
+Robots-snippet: 1
+
+----
+
+Studio-cover-web: 
+
+----
+
+Description: studio architettura ad alghero
+
+----
+
+Cover4: - file://C2jbtlhvmqLkDlGq
+
+----
+
+Section3: Stage 0 is not about design or the practical details.   It focuses on making the right strategic decisions and capturing them in a Business Case.   The stage involves considering the pros and cons,Stage 0 is not about design or the practical details.   It focuses on making the right strategic decisions and capturing them in a Business Case.   The stage involves considering the pros and cons,Stage 0 is not about design or the practical details.   It focuses on making the right strategic decisions and capturing them in a Business Case.   The stage involves considering the pros and cons,Stage 0 is not about design or the practical details.   It focuses on making the right strategic decisions and capturing them in a Business Case.   The stage involves considering the pros and cons,
+
+----
+
+Section4: 
+
+----
+
+Section5: 
+
+----
+
+Section2: Stage 2 is not about design or the practical details.   It focuses on making the right strategic decisions and capturing them in a Business Case.   The stage involves considering the pros and cons,Stage 0 is not about design or the practical details.   It focuses on making the right strategic decisions and capturing them in a Business Case.   The stage involves considering the pros and cons,Stage 0 is not about design or the practical details.   It focuses on making the right strategic decisions and capturing them in a Business Case.   The stage involves considering the pros and cons,
+
+----
+
+Contents: [{"content":{"level":"h2","text":"Title 1"},"id":"a3e15ad6-f999-48e3-8b0e-8f939a90259f","isHidden":false,"type":"heading"},{"content":{"text":"<p>\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"</p>"},"id":"b8e76971-4001-4ff7-a116-fab92f7488ac","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://STrWQrKA2zdAivRf"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"e2625281-a0a0-471c-ba81-59d9367c75b4","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Title 2"},"id":"5f43eea5-8f2c-4cf8-8d3a-5e45575618e3","isHidden":false,"type":"heading"},{"content":{"text":"<p>\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \"\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"</p>"},"id":"9dbdb824-03de-4487-9669-a478439f254e","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://f86iwp9OIfZbFEKr"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"c3bd55be-39d0-4a5b-ae25-775248fdaf56","isHidden":false,"type":"image"},{"content":[],"id":"54503745-945e-48be-b9e6-77c8944bc1b3","isHidden":false,"type":"line"},{"content":{"location":"kirby","image":["file://MhUwuykYrHrLrhIH"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"71e7c470-26af-47f4-b02b-22480c998eeb","isHidden":false,"type":"image"},{"content":{"text":"<p>\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"</p><p></p>"},"id":"d3ea0973-e756-486b-afd9-6f215544daec","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://YsWS6Mdvx77mGe9b"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"898672e3-a0ef-44d7-b888-7a7f6fa4c6dd","isHidden":false,"type":"image"},{"content":{"text":"<p>\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"</p>"},"id":"235c2e70-48ea-41c3-9621-287c4007bee7","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://ignfsnFdfNuXZRJu"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"1cc99ce8-5d96-4981-9324-00b69f9d72b0","isHidden":false,"type":"image"},{"content":{"text":"<p>\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"</p><p></p>"},"id":"77b6cbc9-8501-4d26-9801-46f28b785c2c","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: x5A0GKVmhshA0fbd

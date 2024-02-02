@@ -1,0 +1,89 @@
+title: Project
+icon: 🌆
+
+
+  
+columns:
+
+  - width: 1/1
+
+
+
+    fields:
+      copertina:
+        help: aspect ratio 16:10
+        label: Copertina
+        type: files
+        required: true  
+        layout: card
+        max: 1
+        min: 1
+
+
+    
+
+      gallery:
+        label: Project gallery
+        help: aspect ratio 16:10
+        type: files
+        sortable: true
+        template: studio-project-image
+        sortBy: filename desc
+        layout: cardlets
+
+
+
+
+  - width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          category:
+            label: Tipologia
+            type: select
+            options:
+              - Nuovo
+              - Recupero
+              - Concorsi
+              - Idee
+            width: 1/2
+
+          luogo:
+            type: text
+            width: 1/2
+
+          anno:
+            label: Anno
+            type: date
+            width: 1/2
+            display: YYYY
+            calendar: false
+
+          stato:
+            label: Stato dei lavori
+            type: select
+            options:
+              - Conclusi
+              - In corso
+              - Non iniziati
+            width: 1/2
+
+          cliente:
+            label: Cliente
+            type: text
+            width: 1/2
+
+          collaboratori:
+            label: Collaboratori
+            type: text
+            width: 1/2
+
+          text:
+            label: descrizione
+            type: textarea
+            width: 2/2
+
+          # mymap:
+          #   label: Dove
+          #   type: locator

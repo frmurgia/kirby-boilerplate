@@ -1,0 +1,57 @@
+Title: Mi il mare
+
+----
+
+Copertina: - file://psiQwj6hXFRlKPHR
+
+----
+
+Gallery:
+
+- file://psiQwj6hXFRlKPHR
+- file://5ulFavgbo7Q9HUGp
+- file://92eBKoVISCqiCud9
+- file://fQeWAV0fjorI7Q0l
+- file://Cc0sLLUdyxUvT8ha
+- file://Kz2oWMdU4916CNJM
+- file://SjZGdW5dh27IicRl
+- file://8gokqFjWjNL8I2Vn
+- file://t0lToyF5VodlGlnb
+- file://XPARjyDAu6Q9vapF
+- file://CTCfFvfOt3laqf6Y
+- file://4UOZuIq1pXp58NZQ
+- file://7FzW9shA2CBqdcg7
+- file://vXjIqJzkSyJzUaWW
+- file://BAooWrKtiF8lIzGE
+
+----
+
+Category: Recupero
+
+----
+
+Luogo: Fertilia
+
+----
+
+Anno: 2023-01-01
+
+----
+
+Stato: Conclusi
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: 
+
+----
+
+Text: 'appartamento
+
+----
+
+Uuid: pdHTztjl1x6EDlia

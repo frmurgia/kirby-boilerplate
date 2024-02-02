@@ -1,0 +1,47 @@
+Title: Kripto!
+
+----
+
+Copertina: - file://LXWHv3QTHUD2IWcY
+
+----
+
+Gallery:
+
+- file://LXWHv3QTHUD2IWcY
+- file://wu1Rm6DJOCOhlCcK
+- file://MqTcyFDaiqZFdgdz
+- file://eM0Ax09zvwJZVlTP
+- file://FeFQdHj2PR6mrlug
+
+----
+
+Category: Recupero
+
+----
+
+Luogo: Taranto
+
+----
+
+Anno: 
+
+----
+
+Stato: Non iniziati
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: 
+
+----
+
+Text: Il progetto si sviluppa sull'idea che le piante siano come la kryptonite di Superman. Il verde della kryptonite è usato come base di colore per i muri e il pavimento ed è combinata con moduli in legno flessibili che si adattano allo spazio.
+
+----
+
+Uuid: ehILs6t6f9S5788L

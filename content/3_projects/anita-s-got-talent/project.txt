@@ -1,0 +1,51 @@
+Title: Anita's got talent
+
+----
+
+Copertina: - file://y71dw9dAcYzhAyx6
+
+----
+
+Gallery:
+
+- file://rmIEhAQkNPnArHFc
+- file://dN8Ym4b7Wf860NZE
+- file://y71dw9dAcYzhAyx6
+- file://1BpO9wu5jG4WqICK
+
+----
+
+Category: Idee
+
+----
+
+Luogo: 
+
+----
+
+Anno: 2023-01-01
+
+----
+
+Stato: 
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: 
+
+----
+
+Text:
+
+Il masterplan utilizza la pergola, la pavimentazione e il verde come elementi di connessione tra la scuola e gli spazi adiacenti accompagnando quotidianamente il bambino e la comunità. Il progetto crea un’area pedonale con un un percorso caratterizzato da aree verdi attrezzate, parco giochi, skatepark, parcheggi, servizi, scuole, palasport e i campi da calcio formando così uno spazio della città ricco di esperienze e opportunità.
+La scuola offre i propri spazi ai residenti e ai servizi locali con l’intento di promuovere il rafforzamento dei legami interni della comunità, la connessione con le risorse e i servizi, così migliorando i networks locali. In questo modo si porta avanti un senso di appartenenza e di cittadinanza e si favorisce l’accesso ai servizi di supporto per salute e wellbeing. Inoltre l’uso delle strutture nel doposcuola, aiuta a ridurre il vandalismo.
+Il progetto cerca di evidenziare l’importanza delle relazioni tra i vari spazi dell’insegnamento, interni ed esterni. Attraverso un processo di cambiamento e miglioramento spaziale dimostra le potenzialità che possono emergere quando gli spazi sono multifunzionali,  interconnessi, pensati e strutturati per gli studenti e gli insegnanti.
+*“Un luogo formativo fluido capace di stimolare ed aiutare ogni bambino ad individuare le sue capacità di innovazione, creatività e talento personale”*
+
+----
+
+Uuid: xYMLk8aaq2gNnYFR

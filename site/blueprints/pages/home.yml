@@ -1,0 +1,38 @@
+# # Each page blueprint must have a title, the title may be different from the file name
+title:
+    en: home
+    it: home
+ icon: ☎️
+
+options:
+  title: false
+  status: false
+  duplicate: false
+  url: false
+  delete: false
+  
+      
+tabs:
+
+  home:
+
+
+
+    fields:
+
+      gallery:
+        label: home gallery
+        help: aspect ratio 16:10
+        type: files
+        sortable: true
+        template: studio-project-image
+        sortBy: filename desc
+        layout: cardlets
+
+
+
+  # meta: tabs/meta/site
+  seotab: seo
+
+
+    

@@ -1,0 +1,54 @@
+Title: Una Linea tra i punti
+
+----
+
+Copertina: - file://NXpvaD8rwLajXCUK
+
+----
+
+Gallery:
+
+- file://NXpvaD8rwLajXCUK
+- file://RQEho07tLdtgG67A
+- file://11m4hZtqvJTGhNuA
+- file://DFs87GaTLW6eZZx5
+- file://TuXdjHW6A6o4sY3I
+- file://KYlTNuPGpVryrj6B
+- file://jyWewiyxYqtUYN71
+- file://jOElGj4tbfuD8tx8
+- file://6t6Lmosf2jYCSpid
+
+----
+
+Category: Nuovo
+
+----
+
+Luogo: Prov. Sassari
+
+----
+
+Anno: 
+
+----
+
+Stato: In corso
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: Agron. Ballero Alberto
+
+----
+
+Text:
+
+Il volume lineare e semplice nasce dall’esigenza di limitare l'impatto visivo ed ambientale all’interno di una maglia regolare di ulivi centenari. 
+La struttura della copertura in legno a vista risponde all’esigenza del cliente di creare uno spazio caldo e accogliente tipico degli edifici di campagna. Le ampie aperture consentono di avere una visione dell’ambiente circostante, dall'uliveto fino a Capocaccia.
+
+----
+
+Uuid: Xy7BeONdIv7e5nvt

@@ -1,0 +1,9 @@
+Sort: 3
+
+----
+
+Uuid: crMGYCXiOQLdSH4k
+
+----
+
+Template: studio-project-image

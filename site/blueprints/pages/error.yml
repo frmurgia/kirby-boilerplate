@@ -1,0 +1,13 @@
+title: Default Page
+options:
+  changeSlug: false
+  delete: false
+  changeTemplate: false
+  changeStatus: false
+  duplicate: false
+  Changename: false
+fields:
+  text:
+    label: Error message
+    type: text
+

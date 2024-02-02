@@ -1,0 +1,44 @@
+Title: Chez Zia Maria
+
+----
+
+Copertina: - file://mE5zbgvOv6qjiXoM
+
+----
+
+Gallery:
+
+- file://mE5zbgvOv6qjiXoM
+- file://MJPxlscvbF3aF5Ri
+
+----
+
+Category: Recupero
+
+----
+
+Luogo: 
+
+----
+
+Anno: 
+
+----
+
+Stato: In corso
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: Geometra Mauro Zara
+
+----
+
+Text: 
+
+----
+
+Uuid: 0Ko6EWvHIogOxa1s

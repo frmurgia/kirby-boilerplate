@@ -1,0 +1,48 @@
+Title: Cortil-E
+
+----
+
+Copertina: - file://5ebjv0vEQNWOp5fd
+
+----
+
+Gallery:
+
+- file://j7pSpc1DRwAzR7Vs
+- file://uGR2hb1ZqnSEdaVR
+- file://JcIDrVslDeKl3IzT
+
+----
+
+Category: Idee
+
+----
+
+Luogo: Alghero
+
+----
+
+Anno: 
+
+----
+
+Stato: 
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: Spazio-T
+
+----
+
+Text:
+
+Il progetto de IL CORTIL-E dello SpazioT in collaborazione con lo studio Signa desidera innescare un processo virtuoso di rigenerazione urbana attraverso l’attivazione di una serie iniziale di riunioni aperte in loco, che delineeranno le linee guida di quello che sarà un progetto partecipativo di trasformazione del cortile della scuola primaria Maria Immacolata in Community Hub. IL CORTILE desidera offrire un luogo di incontro per la comunità, con l’intento di rafforzare i legami interni e la connessione con le risorse e i servizi locali, promuovendo e migliorando le reti comunitarie. Il progetto desidera favorire l’accesso ai servizi di supporto per salute e wellbeing.
+Il progetto propone la rimozione della pavimentazione e il suo recupero, il rafforzamento e miglioramento dell'area verde, il recupero della gradinata e potenzialmente l'aggiunta di una copertura leggera, realizzata anche in questo caso attraverso laboratori di progettazione e produzione, con una particolare attenzione alla sostenibilità dei materiali e al riciclo. Il miglioramento spaziale ottenuto attraverso il ripristino della pavimentazione e la produzione di arredo urbano generati nei diversi workshops a collaborazione comunitaria, offrirà uno spazio rimodellato in grado di ospitare spettacoli multidisciplinari, attività culturali e un orto urbano, un'area aperta agli studenti dell'istituto, alla comunità locale e non solo.
+
+----
+
+Uuid: HUhOTifllOBp3zi6

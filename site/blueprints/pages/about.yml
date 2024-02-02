@@ -1,0 +1,112 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title:
+    en: about
+    it: chi siamo
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: ☎️
+
+# Limit the possible page statuses to `draft` and `listed`.
+# More about page statuses: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
+status:
+  draft: true
+  listed: false
+
+options:
+  title: false
+  status: false
+  duplicate: false
+  url: false
+  delete: false
+      
+  
+
+# Page options allow you to control how users can interact with the page.
+# Here we prevent changing the page slug and page deletion
+# More about page options: https://getkirby.com/docs/reference/panel/blueprints/page#options
+options:
+  changeSlug: false
+  delete: false
+  changeTemplate: false
+  changeStatus: false
+  duplicate: false
+
+# We use tabs here to focus on the layout in one tab
+# and have the additional contact fields in a secondary
+# tab. Tabs can really help to clean up the interface
+# when it otherwise gets too complicated
+tabs:
+  content:
+    icon: text
+    label: chi siamo 
+    fields:
+      descrizione:
+        help: Tips! per formattare doppio click sul testo
+        label: Descrizione
+        type: blocks
+        fieldsets:
+      
+          - text
+        inline: false
+        width: 2/4
+        required: true  
+
+      studio_cover:
+        label: Studio cover
+        type: files
+        
+        template: studio-project-cover
+        layout: cards
+        image:
+          cover: true
+        width: 1/4
+        max: 1
+    
+
+      indirizzo:
+        label: Indirizzo
+        type: writer
+        inline: true
+        width: 1/2
+      email:
+        label: Email
+        type: email
+        width: 1/2
+      phone:
+        label: Phone
+        type: tel
+        width: 1/2
+      linkedin:
+        label: Linkedin
+        type: text
+        width: 1/2
+
+
+  team:
+    label: Team
+    
+    sections:
+    
+      drafts:
+        label:  Team Members
+        info: "{{ page.position }}"
+        template: team-member
+        readonly: true;
+        type: pages
+      listed:
+        label: Teams
+        
+        
+        layout: cards
+        info: "{{ page.position }}"
+        template: team-member
+        type: pages
+        image:
+          ratio: 1/1
+          cover: true
+
+
+
+
+  # other tab
+  seotab: seo

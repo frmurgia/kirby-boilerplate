@@ -8,5 +8,6 @@ module.exports = {
   content: [
     './site/**/*.php',
     './site/tailwind/*.css',
+    './public/assets/css/*.css',
   ],
 }

@@ -1,5 +1,153 @@
-Title: Home
+Gallery:
+
+- file://xHmxSPJLqGPJ1EeW
+- file://6pQJvuqA7RO04FJP
+- file://FqiDypbxUpxkE3NT
+- file://AZvLZeuzmC8TXUhO
+- file://o0JiNz28k2oUvQZM
+- file://6mDPlgyyOcAbg7LR
+- file://kN5zaW55ntqnDiBh
+- file://qiJ11DESti07y2eg
+- file://kkREo44CwbCm0Rd7
+- file://nCWpjsQPiMofGuH7
+- file://GjvbwHQxDYObCg4A
 
 ----
 
-Uuid: ETYQBlnHXJSb03C4
+Meta-title: homes
+
+----
+
+Meta-description: Architectural firm based in Alghero
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: - file://fAe3vJlrd8kgJwoI
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: Architectural firm based in Alghero
+
+----
+
+Og-image: - file://FZoEdg445auES9um
+
+----
+
+Og-site-name: Studio Signa
+
+----
+
+Og-url: https://www.studiosigna.com
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: Studio Signa
+
+----
+
+Twitter-description: Architectural firm based in Alghero
+
+----
+
+Twitter-image: - file://fAe3vJlrd8kgJwoI
+
+----
+
+Twitter-card-type: summary_large_image
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: disabled
+
+----
+
+Robots-nofollow: disabled
+
+----
+
+Robots-noarchive: disabled
+
+----
+
+Robots-noimageindex: disabled
+
+----
+
+Robots-nosnippet: disabled
+
+----
+
+Home-gallery:
+
+- file://m8Q7I5Xk9rInsxsw
+- file://TerkNovhscmpFamO
+- file://22jb1GJFQafNwse4
+
+----
+
+Uuid: SEE5CP8rWDl3zOwm

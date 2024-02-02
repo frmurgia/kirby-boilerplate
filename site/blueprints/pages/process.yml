@@ -1,0 +1,146 @@
+# # Each page blueprint must have a title, the title may be different from the file name
+title:
+    en: process
+    it: processo
+
+# # Each page can have an icon that is shown in page listings when no preview image is available.
+  icon: ☎️
+
+
+options:
+  title: false
+  status: false
+  duplicate: false
+  url: false
+  delete: false
+    
+      
+tabs:
+  process:
+    fields:
+    
+      homeinfo:
+        label: Main heading
+        type: text
+        width: 2/3
+        required: true
+
+      # contents:
+      #   label: All content on homepage
+      #   type: blocks
+
+      title1:
+        label: titolo 1
+        type: text
+        width: 2/3
+
+      description1:
+        label: descrizione 1
+        type: writer
+        width: 2/3
+        
+      cover:
+        label: prima immagine
+        type: files
+        template: studio-project-cover
+        cover: true
+        width: 2/3
+
+      title2:
+        label: titolo 2
+        type: text
+        width: 2/3
+
+      description2:
+        label: descrizione 2
+        type: writer
+        width: 2/3
+            
+      cover2:
+        label: Seconda immagine
+        type: files
+        template: studio-project-cover
+        width: 2/3  
+
+      title3:
+        label: titolo 3
+        type: text
+        width: 2/3
+
+      description3:
+        label: descrizione 3
+        type: writer
+        width: 2/3
+    
+
+        
+      cover3:
+          label: terza immagine
+          type: files
+          template: studio-project-cover
+          width: 2/3
+
+      title4:
+        label: titolo 4
+        type: writer
+        width: 2/3
+
+      description4:
+        label: descrizione 4
+        type: writer
+        width: 3/3
+      cover4a:
+          label: Quarta immagine a
+          type: files
+          template: studio-project-cover
+          width: 1/3
+      cover4b:
+          label: Quarta immagine b
+          type: files
+          template: studio-project-cover
+          width: 1/3
+      cover4c:
+          label: Quarta immagine c
+          type: files
+          template: studio-project-cover
+          width: 1/3
+
+      title5:
+        label: titolo 5
+        type: text
+        width: 2/3
+
+      description5:
+        label: descrizione 5
+        type: writer
+        width: 2/3
+          
+
+      cover5:
+          label: Quinta immagine
+          type: files
+          template: studio-project-cover
+          width: 2/3
+
+      title6:
+        label: titolo 6
+        type: text
+        width: 2/3
+
+      description6:
+        label: descrizione 6
+        type: writer
+        width: 2/3
+          
+
+      cover6:
+          label: Sesta immagine
+          type: files
+          template: studio-project-cover
+          width: 2/3
+
+
+
+
+  # other tab
+  seotab: seo

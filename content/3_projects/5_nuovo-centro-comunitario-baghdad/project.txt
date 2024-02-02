@@ -1,0 +1,50 @@
+Title: Nuovo centro comunitario Baghdad
+
+----
+
+Copertina: - file://uUcPYWDD85xGsexG
+
+----
+
+Gallery:
+
+- file://uUcPYWDD85xGsexG
+- file://f5JZ6mzfN587INe0
+- file://yMPbU6OB3dXVc5nS
+
+----
+
+Category: Concorsi
+
+----
+
+Luogo: Baghdad
+
+----
+
+Anno: 
+
+----
+
+Stato: 
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: Arch. Alessandro Madau
+
+----
+
+Text:
+
+Il progetto nasce dall'analisi storica di Al-Rusafa. Questo quartiere è caratterizzato da una maglia urbana compatta con corti interne, che crea un'alternanza di pieni e vuoti. La proposta progettuale aggiunge un nuovo volume nella piazza e ripristina il valore storico del muro esistente ridefinendo la sua funzione di confine.
+ 
+Accessibilità, inclusione e condivisione sono le linee guida dietro a un progetto che richiama esteticamente e strutturalmente le volumetrie di Baghdad, in suo spazi vuoti e la fusione di nuovo e antico. Il nuovo volume segue e si appoggia alle mura esistenti rialzandosi dal suolo e riducendo la sua impronta al minimo in modo da conservare la funzione pubblica di piazza.
+Il nuovo edificio si sviluppa lungo un percorso continuo e fluido, che inizia dalle aree comuni del piano terra fino alle aree di co-working ai piani alti.
+
+----
+
+Uuid: 8R8KMuoscA89UYXi

@@ -1,0 +1,9 @@
+Sort: 8
+
+----
+
+Uuid: Yx1ErFnm0n8NZOM0
+
+----
+
+Template: studio-project-image

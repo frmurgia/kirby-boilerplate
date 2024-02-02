@@ -1,0 +1,18 @@
+type: pages
+headline: Projects
+parent: site.find("projects")
+size: small
+info: "{{ page.category }}"
+layout: cards
+template: project
+empty: No projects yet
+label: Projects
+image:
+  extends: project.copertina
+  label: Team Member Photo
+  min: 1
+  max: 1
+  image:
+    ratio: 1/1
+    cover: true
+

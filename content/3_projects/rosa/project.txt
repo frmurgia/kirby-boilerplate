@@ -1,0 +1,45 @@
+Title: Rosa
+
+----
+
+Copertina: - file://wkfpYvixmEjSZ1If
+
+----
+
+Gallery:
+
+- file://FLk3Pc95m7FpeNwU
+- file://jC2hQCRDMDUBpGe6
+- file://wkfpYvixmEjSZ1If
+
+----
+
+Category: Nuovo
+
+----
+
+Luogo: 
+
+----
+
+Anno: 
+
+----
+
+Stato: Conclusi
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: 
+
+----
+
+Text: 
+
+----
+
+Uuid: fhEYJX6OlYphJyjq

@@ -1,0 +1,9 @@
+Sort: 6
+
+----
+
+Uuid: fI6KLV7KkZsAueFR
+
+----
+
+Template: studio-project-image

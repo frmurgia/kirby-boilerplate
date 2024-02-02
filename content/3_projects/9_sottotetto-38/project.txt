@@ -1,0 +1,50 @@
+Title: Sottotetto 38
+
+----
+
+Copertina: - file://s3KKSi8QsytOMUsD
+
+----
+
+Gallery:
+
+- file://s3KKSi8QsytOMUsD
+- file://fK3z4HpjR0LCOv0V
+- file://2UZa8efahafYaX9c
+- file://1DbM2YzF0ztGpnqp
+- file://Etr0BGoI9DlE6gTu
+
+----
+
+Category: Recupero
+
+----
+
+Luogo: 
+
+----
+
+Anno: 
+
+----
+
+Stato: Conclusi
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: Agr. Alberto Ballero
+
+----
+
+Text:
+
+Il progetto rispecchia la richiesta del cliente di creare uno spazio accogliente, caldo e luminoso. Il legno a vista del soffitto con il lucernario e il pavimento grigio offrono una base materica contemporanea e neutra su cui applicare accenti di colore.
+L'open plan e la disposizione della camera e del bagno, massimizzano gli spazi del sottotetto.
+
+----
+
+Uuid: jxX31uUyIcPOjgvG

@@ -1,0 +1,9 @@
+Sort: 6
+
+----
+
+Uuid: mkEUSvFQdXkX8uto
+
+----
+
+Template: studio-project-image

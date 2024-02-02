@@ -1,24 +1,5 @@
-<!DOCTYPE html>
-<html lang="<?= $kirby->language() ? $kirby->language()->code() : 'en' ?>">
-    
-    <?php 
-        $themeColor = '';
-        $maskIconColor = '';
-        $cssPath = 'assets/css/tailwind.css';
-        $cssVersion = filemtime($cssPath) ?? '';
-    ?>
-    
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-        <?= snippet('seo/meta') ?>
-        <?= snippet('seo/favicon', [
-            'themeColor' => $themeColor,
-            'maskIconColor' => $maskIconColor,
-        ]) ?>
-        <?= css($cssPath . '?v=' . $cssVersion) ?>
-        <?= snippet('matomo') ?>
-    </head>
+
+
 
     <body class="<?= " " . $bodyclasses ?? '' ?>">
 

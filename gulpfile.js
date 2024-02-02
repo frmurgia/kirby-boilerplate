@@ -1,8 +1,9 @@
-// gulpfile.js
 const gulp = require("gulp");
 const browserSync = require("browser-sync");
 const postcss = require("gulp-postcss");
 const php = require('gulp-connect-php');
+const concat = require('gulp-concat');
+
 
 const paths = [
     "site/**/*.php",
@@ -11,42 +12,21 @@ const paths = [
     "content/**/*.txt",
 ]
 
-// -------------------------------------
-//   Task for compiling our CSS files using PostCSS
-// -------------------------------------
 gulp.task('reload', function (cb) {
     browserSync.reload();
     return cb();
 });
 
-gulp.task('postcss', function (cb) {
-    return gulp.src("./site/tailwind/*.css") // read .css files from ./site/tailwind folder
-        .pipe(postcss()) // compile using postcss
-        .pipe(gulp.dest("./public/assets/css")) // paste them in ./assets/css folder
+
+
+gulp.task('postcss', function () {
+    return gulp.src("./public/assets/css/*.css")
+        .pipe(concat('main.css')) // Concatena tutti i file CSS in uno chiamato 'main.css'
+        .pipe(postcss())
+        .pipe(gulp.dest("./public/assets/css"))
         .pipe(browserSync.stream());
-    return cb();
 });
 
-// -------------------------------------
-//   Task for minifying images
-// -------------------------------------
-gulp.task('reload', function (cb) {
-    browserSync.reload();
-    return cb();
-});
-
-// -------------------------------------
-//   Reloading in Browser
-// -------------------------------------
-gulp.task('reload', function (cb) {
-    browserSync.reload();
-    return cb();
-});
-
-
-// -------------------------------------
-//   PHP Server
-// -------------------------------------
 gulp.task('connect', function (done) {
     php.server({
         base: './public/',
@@ -60,7 +40,8 @@ gulp.task('connect', function (done) {
             notify: false,
         });
     });
-    gulp.watch(paths, { usePolling: true }, gulp.series(gulp.parallel('postcss'), 'reload'))
+
+    gulp.watch(paths, { usePolling: true }, gulp.series('postcss', 'reload'));
     return done();
 });
 
@@ -69,21 +50,11 @@ gulp.task('disconnect', function(done) {
     return done();
 });
 
-// -------------------------------------
-//   Task: clean
-// -------------------------------------
 gulp.task('clean', function () {
-	return del(paths.dist);
+    // Assuming paths.dist is defined somewhere
+    return del(paths.dist);
 });
 
+gulp.task('default', gulp.series('postcss', 'connect'));
 
-// -------------------------------------
-//   Task: default
-// -------------------------------------
-gulp.task('default', gulp.series(gulp.parallel('postcss' /*, 'images'*/), 'connect'));
-
-
-// -------------------------------------
-//   Task: build
-// -------------------------------------
-gulp.task('build', gulp.series('clean', gulp.parallel('postcss' /*, 'images'*/)));
+gulp.task('build', gulp.series('clean', 'postcss'));

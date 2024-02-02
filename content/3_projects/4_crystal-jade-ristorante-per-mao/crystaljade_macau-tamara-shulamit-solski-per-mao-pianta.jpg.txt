@@ -1,0 +1,5 @@
+Uuid: RGhGkIhFSRScBQVn
+
+----
+
+Template: studio-project-image

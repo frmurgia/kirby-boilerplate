@@ -1,0 +1,34 @@
+title: Team
+preset: page
+icon: user
+
+status:
+  draft: true
+  listed: true
+
+fields:
+  position:
+    label: Position
+    type: text
+
+  about:
+    label: About
+    type: textarea
+    size: medium
+
+  linkedin:
+    label: linkedin
+    width: 1/2
+    type: text
+    icon: linkedin
+    placeholder: username
+
+sidebar:
+  image:
+    extends: sections/image
+    label: Team Member Photo
+    min: 1
+    max: 1
+    image:
+      ratio: 1/1
+      cover: true

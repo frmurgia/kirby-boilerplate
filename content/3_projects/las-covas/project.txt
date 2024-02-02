@@ -1,0 +1,49 @@
+Title: Las Covas
+
+----
+
+Copertina: - file://nU8Q2R51yKZGnO7b
+
+----
+
+Gallery:
+
+- file://SB23Egx7sIdsqUah
+- file://hSNPPc3tVPEPvWDZ
+- file://3aSDoYq0Ez7kSMBH
+- file://kleZMGIFusBnPLqd
+- file://dg0HiCtkkyoylXcv
+- file://OZ8lZrrSP49EzSlP
+- file://MjhNnpAIBwpu8z3f
+
+----
+
+Category: Nuovo
+
+----
+
+Luogo: Alghero
+
+----
+
+Anno: 
+
+----
+
+Stato: In corso
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: 
+
+----
+
+Text: 
+
+----
+
+Uuid: S5zMyt9gUQhBXB6N

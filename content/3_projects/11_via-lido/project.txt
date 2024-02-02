@@ -1,0 +1,45 @@
+Title: Via Lido
+
+----
+
+Copertina: - file://G9OJzUdC14lHWcys
+
+----
+
+Gallery:
+
+- file://Ti7qTI52LlVb291l
+- file://G9OJzUdC14lHWcys
+- file://f8hYP6QBLlAj7fpJ
+
+----
+
+Category: Recupero
+
+----
+
+Luogo: Alghero
+
+----
+
+Anno: 
+
+----
+
+Stato: Conclusi
+
+----
+
+Cliente: 
+
+----
+
+Collaboratori: 
+
+----
+
+Text: 
+
+----
+
+Uuid: Qx7oKNyhGwFXbMkN

@@ -1,0 +1,29 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: -
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 4
+
+----
+
+Uuid: MmLdw9dQiGkZDgk7
+
+----
+
+Template: studio-project-image

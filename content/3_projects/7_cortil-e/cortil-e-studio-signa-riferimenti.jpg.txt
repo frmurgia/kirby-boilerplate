@@ -1,0 +1,9 @@
+Sort: 1
+
+----
+
+Uuid: lBRoCnXxmamc9j5X
+
+----
+
+Template: studio-project-image

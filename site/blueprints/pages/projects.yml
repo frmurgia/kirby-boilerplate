@@ -1,0 +1,32 @@
+title: Projects
+
+  image:
+    cover: true
+
+sections:
+
+
+  drafts:
+    extends: sections/projects
+    
+    layout: list
+    headline: Drafts
+    status: draft
+  inReview:
+    label: in revisione
+    extends: sections/projects
+    layout: list
+    headline:  Approval needed
+    status: unlisted
+
+
+
+  projects:
+    label: image preview
+    layout: list
+    cover: true
+    extends: sections/projects
+    
+    
+    headline: Published
+    status: listed
